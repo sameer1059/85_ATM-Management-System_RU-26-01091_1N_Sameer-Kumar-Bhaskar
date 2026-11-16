@@ -1,2 +1,0 @@
-9600
-Withdraw 400 | Balance: 9600
